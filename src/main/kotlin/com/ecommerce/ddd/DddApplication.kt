@@ -1,4 +1,4 @@
-package com.example.ddd
+package com.ecommerce.ddd
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
