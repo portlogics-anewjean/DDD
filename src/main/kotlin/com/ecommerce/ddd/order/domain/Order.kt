@@ -1,4 +1,7 @@
 package com.ecommerce.ddd.order.domain
 
-class Order {
+class Order(
+    val id: OrderNo
+) {
+
 }
